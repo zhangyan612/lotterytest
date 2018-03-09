@@ -1,0 +1,69 @@
+c:\users\dell-pc\documents\visual studio 2015\Projects\LotteryBacktest\LotteryBacktest\bin\Debug\LotteryBacktest.exe.config
+c:\users\dell-pc\documents\visual studio 2015\Projects\LotteryBacktest\LotteryBacktest\bin\Debug\LotteryBacktest.exe
+c:\users\dell-pc\documents\visual studio 2015\Projects\LotteryBacktest\LotteryBacktest\bin\Debug\LotteryBacktest.pdb
+c:\users\dell-pc\documents\visual studio 2015\Projects\LotteryBacktest\LotteryBacktest\obj\Debug\LotteryBacktest.csprojResolveAssemblyReference.cache
+c:\users\dell-pc\documents\visual studio 2015\Projects\LotteryBacktest\LotteryBacktest\obj\Debug\LotteryBacktest.exe
+c:\users\dell-pc\documents\visual studio 2015\Projects\LotteryBacktest\LotteryBacktest\obj\Debug\LotteryBacktest.pdb
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\bin\Debug\LotteryBacktest.exe.config
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\obj\Debug\LotteryBacktest.exe
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\obj\Debug\LotteryBacktest.pdb
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\bin\Debug\LotteryBacktest.exe
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\bin\Debug\LotteryBacktest.pdb
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\obj\Debug\LotteryBacktest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\LotteryBacktest\LotteryBacktest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\bin\Debug\LotteryBacktest.exe.config
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\obj\Debug\LotteryBacktest.exe
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\obj\Debug\LotteryBacktest.pdb
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\bin\Debug\LotteryBacktest.exe
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\bin\Debug\LotteryBacktest.pdb
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\LotteryBacktest-v6.28\LotteryBacktest\obj\Debug\LotteryBacktest.csprojResolveAssemblyReference.cache
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\bin\Debug\LotteryBacktest.exe.config
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\obj\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\obj\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\bin\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\bin\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\bin\Debug\WebDriver.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\bin\Debug\WebDriver.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Selenium\LotteryBacktest\obj\Debug\LotteryBacktest.csprojResolveAssemblyReference.cache
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\bin\Debug\LotteryBacktest.exe.config
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\obj\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\obj\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\bin\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\bin\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\bin\Debug\WebDriver.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\bin\Debug\WebDriver.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-v7.02\LotteryBacktest\obj\Debug\LotteryBacktest.csprojResolveAssemblyReference.cache
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\bin\Debug\LotteryBacktest.exe.config
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\obj\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\obj\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\bin\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\bin\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\bin\Debug\WebDriver.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\bin\Debug\WebDriver.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Running\LotteryBacktest\obj\Debug\LotteryBacktest.csprojResolveAssemblyReference.cache
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\LotteryBacktest.exe.config
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\MongoDB.Bson.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\MongoDB.Driver.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\WebDriver.dll
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\MongoDB.Bson.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\MongoDB.Driver.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\bin\Debug\WebDriver.xml
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\obj\Debug\LotteryBacktest.exe
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\obj\Debug\LotteryBacktest.pdb
+C:\Users\dell-pc\Desktop\LotteryBacktest-Mongodb\LotteryBacktest\obj\Debug\LotteryBacktest.csprojResolveAssemblyReference.cache

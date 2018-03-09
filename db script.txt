@@ -1,0 +1,71 @@
+USE [lottery]
+GO
+
+/****** Object:  Table [dbo].[ApiData]    Script Date: 2016/6/28 19:13:34 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[ApiData](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[Expect] [nvarchar](50) NOT NULL,
+	[Opencode] [nvarchar](50) NOT NULL,
+	[Opentime] [datetime] NOT NULL,
+	[Opentimestamp] [nvarchar](50) NOT NULL,
+	[Single] [int] NOT NULL
+) ON [PRIMARY]
+
+GO
+
+
+
+
+USE [lottery]
+GO
+
+/****** Object:  Table [dbo].[BacktestResult]    Script Date: 2016/6/28 19:14:04 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[BacktestResult](
+	[ID] [nvarchar](50) NOT NULL,
+	[Date] [nvarchar](50) NOT NULL,
+	[Single] [nvarchar](10) NOT NULL,
+	[Balance] [decimal](18, 0) NOT NULL,
+	[GUID] [uniqueidentifier] NOT NULL,
+	[Time] [datetime] NULL
+) ON [PRIMARY]
+
+GO
+
+
+
+
+USE [lottery]
+GO
+
+/****** Object:  Table [dbo].[History]    Script Date: 2016/6/28 19:14:18 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[History](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[Date] [nvarchar](50) NOT NULL,
+	[WinNumber] [nvarchar](50) NOT NULL,
+	[Single] [nvarchar](10) NOT NULL,
+ CONSTRAINT [PK_History] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+

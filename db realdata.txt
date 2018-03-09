@@ -1,0 +1,22 @@
+USE [lottery]
+GO
+
+/****** Object:  Table [dbo].[RealData]    Script Date: 7/2/2016 9:03:24 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[RealData](
+	[Expect] [nvarchar](50) NOT NULL,
+	[Picked] [nvarchar](50) NOT NULL,
+	[WinNumber] [int] NULL,
+	[WhetherWin] [nvarchar](50) NULL,
+	[Time] [datetime] NOT NULL,
+	[Balance] [decimal](18, 0) NULL,
+	[Bet] [int] NULL
+) ON [PRIMARY]
+
+GO
+
